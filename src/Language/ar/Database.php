@@ -9,11 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\Settings\Exceptions;
+// Database language settings
+return [
 
-/**
- * Interface IException
- */
-interface IException
-{
-}
+];
