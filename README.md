@@ -8,3 +8,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/atsanna/codeigniter4-spatial/pulls)
 
 This is an extension for CodeIgniter 4.2.x to work with spatial data types and functions.
+
+## Warning: this is a non-functional experimental version!
+
