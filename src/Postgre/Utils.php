@@ -9,13 +9,13 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\SpatialPostgre;
+namespace atsanna\Spatial\Postgre;
 
-use CodeIgniter\Database\Postgre\Connection as BaseConnection;
+use CodeIgniter\Database\Postgre\Utils as BaseUtils;
 
 /**
- * Connection for Postgre
+ * Utils for Postgre
  */
-class Connection extends BaseConnection
+class Utils extends BaseUtils
 {
 }

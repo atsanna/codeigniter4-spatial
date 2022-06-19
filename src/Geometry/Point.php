@@ -9,13 +9,12 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\SpatialPostgre;
-
-use CodeIgniter\Database\Postgre\PreparedQuery as BasePreparedQuery;
+namespace atsanna\Spatial\Geometry;
 
 /**
- * Prepared query for Postgre
+ * Point: The most basic geometry type. All other geometries
+ * are built out of Points.
  */
-class PreparedQuery extends BasePreparedQuery
+class Point extends Geometry
 {
 }

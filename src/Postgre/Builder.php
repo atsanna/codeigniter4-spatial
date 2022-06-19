@@ -9,7 +9,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\SpatialPostgre;
+namespace atsanna\Spatial\Postgre;
 
 use CodeIgniter\Database\Postgre\Builder as BaseBuilder;
 

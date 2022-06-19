@@ -9,13 +9,11 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\SpatialPostgre;
-
-use CodeIgniter\Database\Postgre\Forge as BaseForge;
+namespace atsanna\Spatial\Geometry;
 
 /**
- * Forge for Postgre
+ * Geometry abstract class
  */
-class Forge extends BaseForge
+abstract class Geometry
 {
 }

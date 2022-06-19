@@ -9,13 +9,13 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace atsanna\Spatial\SpatialPostgre;
+namespace atsanna\Spatial\Postgre;
 
-use CodeIgniter\Database\Postgre\Utils as BaseUtils;
+use CodeIgniter\Database\Postgre\PreparedQuery as BasePreparedQuery;
 
 /**
- * Utils for Postgre
+ * Prepared query for Postgre
  */
-class Utils extends BaseUtils
+class PreparedQuery extends BasePreparedQuery
 {
 }
