@@ -9,5 +9,30 @@
 
 This is an extension for CodeIgniter 4.2.x to work with spatial data types and functions.
 
-## Warning: this is a non-functional experimental version!
+## Warning: this is a non-functional experimental version
 
+___
+
+### example configuration
+
+```
+    public $default = [
+        'DSN'      => '',
+        'hostname' => 'localhost',
+        'username' => '',
+        'password' => '',
+        'database' => '',
+        'DBDriver' => '\atsanna\Spatial\SpatialPostgre',
+        'DBPrefix' => '',
+        'pConnect' => false,
+        'DBDebug'  => (ENVIRONMENT !== 'production'),
+        'charset'  => 'utf8',
+        'DBCollat' => 'utf8_general_ci',
+        'swapPre'  => '',
+        'encrypt'  => false,
+        'compress' => false,
+        'strictOn' => false,
+        'failover' => [],
+        'port'     => 5432,
+    ];
+```
