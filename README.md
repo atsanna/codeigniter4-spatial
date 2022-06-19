@@ -22,7 +22,7 @@ ___
         'username' => '',
         'password' => '',
         'database' => '',
-        'DBDriver' => '\atsanna\Spatial\SpatialPostgre',
+        'DBDriver' => '\atsanna\Spatial\Postgre',
         'DBPrefix' => '',
         'pConnect' => false,
         'DBDebug'  => (ENVIRONMENT !== 'production'),
