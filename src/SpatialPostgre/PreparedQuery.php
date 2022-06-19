@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\PreparedQuery as BasePreparedQuery;
  */
 class PreparedQuery extends BasePreparedQuery
 {
-
 }

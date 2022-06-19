@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\Forge as BaseForge;
  */
 class Forge extends BaseForge
 {
-
 }

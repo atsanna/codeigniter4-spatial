@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\Result as BaseResult;
  */
 class Result extends BaseResult
 {
-
 }

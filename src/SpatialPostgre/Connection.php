@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\Connection as BaseConnection;
  */
 class Connection extends BaseConnection
 {
-
 }

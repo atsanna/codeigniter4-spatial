@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\Utils as BaseUtils;
  */
 class Utils extends BaseUtils
 {
-
 }

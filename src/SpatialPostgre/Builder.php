@@ -18,5 +18,4 @@ use CodeIgniter\Database\Postgre\Builder as BaseBuilder;
  */
 class Builder extends BaseBuilder
 {
-
 }
